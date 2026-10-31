@@ -1,5 +1,3 @@
-# Predictive analysis
-
 # Predictive Analysis
 
 A collection of data analysis and predictive modelling projects exploring regression techniques, time-series analysis, and data visualisation using Python and Jupyter Notebooks.
@@ -38,7 +36,7 @@ The project is organised into three Jupyter Notebooks, each covering a different
 
 ### Prerequisites
 
-Install Python 3 and Jupyter Notebook or JupyterLab.
+Install Python 3 and Jupyter Notebook or JupyterLab. The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine from https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ### Installation
 

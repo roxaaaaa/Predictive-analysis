@@ -4,7 +4,7 @@ A collection of data analysis and predictive modelling projects exploring regres
 
 ## Overview
 
-This repository contains practical work focused on analysing data, exploring statistical relationships, developing predictive models, and communicating findings through visualisations.
+This repository contains practical work focused on analysing data, exploring statistical relationships, developing predictive models, and communicating findings through visualisations within wine quality and population datasets .
 
 The project is organised into three Jupyter Notebooks, each covering a different area of predictive analysis.
 
@@ -12,9 +12,9 @@ The project is organised into three Jupyter Notebooks, each covering a different
 
 | Notebook | Description |
 |---|---|
-| [`ca1_regression_models.ipynb`](ca1_regression_models.ipynb) | Explores regression models and predictive modelling techniques. |
-| [`ca2_time_series.ipynb`](ca2_time_series.ipynb) | Focuses on time-series analysis and understanding patterns in data over time. |
-| [`ca3_visualisations.ipynb`](ca3_visualisations.ipynb) | Explores data visualisation techniques for identifying patterns and communicating insights. |
+| [`ca1_regression_models.ipynb`](ca1_regression_models.ipynb) | Explores regression models and predictive modelling techniques in the wine quality dataset. |
+| [`ca2_time_series.ipynb`](ca2_time_series.ipynb) | Focuses on time-series analysis and understanding patterns in data over time in the population dataset. |
+| [`ca3_visualisations.ipynb`](ca3_visualisations.ipynb) | Explores data visualisation techniques for identifying patterns and communicating insights for wine quality and population findings. |
 
 ## Objectives
 
